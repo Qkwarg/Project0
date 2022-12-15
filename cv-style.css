@@ -1,0 +1,38 @@
+/**************** Tag Selectors ************************/
+
+
+body {
+    background-color: rgba(173, 216, 230, 0.459);
+}
+
+
+
+
+h1 {
+
+    color: turquoise;
+}
+
+h3 {
+
+    color: turquoise;
+}
+
+/**************** ID Selectors ************************/
+/* IDs can only be used once */
+#heading3 {
+    color: green;
+}
+
+/**************** Class Selectors ************************/
+/* Classes are used as many times as you want */
+.hl {
+    border-bottom: 2px dotted grey;
+    margin: 0 auto;
+    width:3%;
+    border-width: 5px;
+}
+
+.profilepic {
+    border-radius: 100%;
+}
